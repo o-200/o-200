@@ -1,7 +1,7 @@
 ### About me:
 <pre>
   <b>Emloyment:  </b> Making a pet-project..
-  <b>Web:        </b> Ruby on Rails, HTML/CSS/Haml/Slim, Bootstrap
+  <b>Web:        </b> Ruby on Rails, HTML/CSS/Haml, Bootstrap
   <b>Other:      </b> PostgreSQL, Git, RSpec, Docker, API
   <b>Contact me: </b> https://t.me/sonellyuwu
   
