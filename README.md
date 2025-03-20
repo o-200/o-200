@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! i like programming and trying my best :) Sometimes I learn on my own way, sometimes I teach others.
 
-* 📖 my book list - [click me](https://docs.google.com/spreadsheets/d/1Q87d7Xxt_Y1IOkM6vVAhuMBLPZLbLomwo7ESrsVci6U/edit?usp=sharing)
 * 📋 my blog - soon...
 
 Looking for job opportunities.
