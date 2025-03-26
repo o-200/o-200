@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! i like programming and trying my best :) Sometimes I learn on my own way, sometimes I teach others.
 
-* 📋 my blog - soon...
+Check out some of my blog posts:
+- [Understanding SOAP from 0 to 1](https://o-200.github.io/web/2025/03/26/Understanding-Soap-From-0-to-1.html)
 
-Looking for job opportunities.
 
 ### My Tech Stack:
 - Programming Languages: Ruby, JavaScript, Rust, Python
@@ -18,3 +18,5 @@ Looking for job opportunities.
 
 - 📄 LinkedIn: [@alexabramof](https://www.linkedin.com/in/alexabramof/)
 - 💬 Telegram: [@iamAlexAbramov](https://t.me/iamAlexAbramov)
+
+Looking for job opportunities.
