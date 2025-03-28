@@ -12,7 +12,7 @@ Check out some of my blog posts:
 - Testing Frameworks/Tools: RSpec, Minitest, Cucumber, Capybara, Selenium, Postman, SoapUI
 - Databases: PostgreSQL, MongoDB, Redis
 - DevOps: Linux, Docker, Kubernetes
-- Another: Git, Bash, Apache Kafka, RabbitMQ, Grafana, HTML, CSS, Tailwind, Bootstrap, GraphQL, WebSocket, SOAP
+- Another: Git, Bash, RabbitMQ, Grafana, HTML, CSS, Tailwind, Bootstrap, GraphQL, WebSocket, SOAP
 
 ### Contacts:
 
